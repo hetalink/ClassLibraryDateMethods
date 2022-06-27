@@ -20,6 +20,20 @@ namespace ClassLibraryDateMethods
             }
         }
 
+        public bool StudyIsLate(DateTime startDate, int estimatedTime)
+        {
+            TimeSpan timeSpan = startDate.AddDays(estimatedTime) - DateTime.Today;
+            int toCompare = Convert.ToInt32(timeSpan.Days);
 
+            if (toCompare < 0)
+            {
+                return true;
+            }
+
+            else
+            {
+                return false;
+            }
+        }
     }
 }
