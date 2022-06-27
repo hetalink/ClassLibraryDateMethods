@@ -1,0 +1,10 @@
+C:\Users\Mae\Source\Repos\ClassLibraryDateMethods\obj\Debug\netcoreapp3.1\ClassLibraryDateMethods.csproj.AssemblyReference.cache
+C:\Users\Mae\Source\Repos\ClassLibraryDateMethods\obj\Debug\netcoreapp3.1\ClassLibraryDateMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mae\Source\Repos\ClassLibraryDateMethods\obj\Debug\netcoreapp3.1\ClassLibraryDateMethods.AssemblyInfoInputs.cache
+C:\Users\Mae\Source\Repos\ClassLibraryDateMethods\obj\Debug\netcoreapp3.1\ClassLibraryDateMethods.AssemblyInfo.cs
+C:\Users\Mae\Source\Repos\ClassLibraryDateMethods\obj\Debug\netcoreapp3.1\ClassLibraryDateMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mae\source\repos\ClassLibraryDateMethods\bin\Debug\netcoreapp3.1\ClassLibraryDateMethods.deps.json
+C:\Users\Mae\source\repos\ClassLibraryDateMethods\bin\Debug\netcoreapp3.1\ClassLibraryDateMethods.dll
+C:\Users\Mae\source\repos\ClassLibraryDateMethods\bin\Debug\netcoreapp3.1\ClassLibraryDateMethods.pdb
+C:\Users\Mae\source\repos\ClassLibraryDateMethods\obj\Debug\netcoreapp3.1\ClassLibraryDateMethods.dll
+C:\Users\Mae\source\repos\ClassLibraryDateMethods\obj\Debug\netcoreapp3.1\ClassLibraryDateMethods.pdb
