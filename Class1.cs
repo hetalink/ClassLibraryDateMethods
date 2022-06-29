@@ -4,7 +4,7 @@ namespace ClassLibraryDateMethods
 {
     public class Class1
     {
-        public bool FutureDate(DateTime date)
+        public static bool FutureDate(DateTime date)
         {
             DateTime now = DateTime.Today;
             TimeSpan isFuture = now - date;
@@ -20,7 +20,7 @@ namespace ClassLibraryDateMethods
             }
         }
 
-        public bool StudyIsLate(DateTime startDate, int estimatedTime)
+        public static bool StudyIsLate(DateTime startDate, int estimatedTime)
         {
             TimeSpan timeSpan = startDate.AddDays(estimatedTime) - DateTime.Today;
             int toCompare = Convert.ToInt32(timeSpan.Days);
